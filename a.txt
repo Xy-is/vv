@@ -1,9 +1,10 @@
 <<<<<<< HEAD
 vnezapno u Artema est` 4 chlena
 
+Ilya esli ti eto chitaesh to ne chitay
 =======
 la la la u Artema net xuya
 a gde xui?
 U soroki na suku s xuem vo rtu navernoe
 ----------------------------------------
->>>>>>> bd56a35468c79a15f2f4777a16e71bfcb7278d19
+
